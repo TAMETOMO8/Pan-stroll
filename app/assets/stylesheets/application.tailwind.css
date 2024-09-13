@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .top-wrapper {
-  background-image: url("bakery-1868925_1280.jpg");
+  background-image: url("top_image.jpg");
   background-size: cover;
   height: calc(100vh);
   position: relative;
