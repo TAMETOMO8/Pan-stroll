@@ -73,3 +73,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+gem 'dotenv-rails'
+gem 'google_places'
